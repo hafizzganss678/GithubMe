@@ -5,15 +5,31 @@
 <img align="right" alt="GIF" height="90px" src="https://camo.githubusercontent.com/19de67baa6e5a6594c50a400d466144108a616b0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" />
 
 
+### 👤 About Me
 
+```
 
+Intro = {
 
+"Name": "Muhammad Hafiz",
 
+"Status": "Pelajar",
 
+"Address": "Tanggerang Selatan, Banten, Indonesia",
 
+"Age": "16 Years Old",
 
+"Birthday": " 22 - November"
 
+}
 
+```
+
+___
+
+### Whatsapp Me ⚔️
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285892842367)
 
 
 
