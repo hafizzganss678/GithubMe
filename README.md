@@ -6,6 +6,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 **Personal Stuffs:**
 - 🌱 I’m currently learning javascript
 - ✨ Interested in API development 
