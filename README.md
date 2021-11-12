@@ -73,7 +73,7 @@ ___
  
 <details>
   <summary><b>My Github Stats</b></summary>
-  <img alt="Irwan's github stats" src="https://github-readme-stats.vercel.app/api?username=irwanx&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
+  <img alt="Hafizz github stats" src="https://github-readme-stats.vercel.app/api?username=hafizzganss678&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwanx&layout=compact&hide_border=true"/>
 </details>
